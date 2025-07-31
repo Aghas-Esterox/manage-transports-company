@@ -40,5 +40,7 @@ Special thanks to the backend team for providing thorough documentation and supp
 
 If you have any questions or need more information about this project, feel free to reach out!
 
-- Email: aghasghazaryan8888@gmail.com
-- Telegram: [@Aghasy_8](https://t.me/Aghasy_8)
+**Name:** Aghas Ghazaryan  
+**GitHub:** [github.com/Aghas-Esterox](https://github.com/Aghas-Esterox)  
+**Email:** aghas.ghazaryan@esterox.am
+**Telegram:** [@Aghasy_8](https://t.me/Aghasy_8)
