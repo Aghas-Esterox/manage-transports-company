@@ -42,5 +42,5 @@ If you have any questions or need more information about this project, feel free
 
 **Name:** Aghas Ghazaryan  
 **GitHub:** [github.com/Aghas-Esterox](https://github.com/Aghas-Esterox)  
-**Email:** aghas.ghazaryan@esterox.am
+**Email:** aghas.ghazaryan@esterox.am  
 **Telegram:** [@Aghasy_8](https://t.me/Aghasy_8)
